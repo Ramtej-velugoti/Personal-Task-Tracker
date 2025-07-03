@@ -72,31 +72,6 @@ A responsive and minimal personal task management app built using React.js. User
 #### ✅ Completed Tasks
 ![Completed Tasks](screenshots/Completed%20Tasks.png)
 
-📂 Folder Structure
-Personal-Task-Tracker/
-├── public/
-│   └── index.html
-├── screenshots/
-│   ├── Adding Tasks.png
-│   ├── Completed Tasks.png
-│   ├── HomePage.png
-│   ├── Pending Tasks.png
-│   └── Simple Login page.png
-├── src/
-│   ├── components/
-│   │   ├── Login.js
-│   │   ├── TaskForm.js
-│   │   ├── TaskItem.js
-│   │   ├── TaskList.js
-│   │   └── TaskFilter.js
-│   ├── styles/
-│   │   └── App.css
-│   ├── utils/
-│   │   └── localStorage.js
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
 
 🤝 Author
 Built with 💻 and 💙 by Ramtej Velugoti
@@ -105,5 +80,3 @@ Built with 💻 and 💙 by Ramtej Velugoti
 This project is open-source and available under the MIT License.
 
 ---
-
-Let me know if you want to optimize these images, create a dark/light toggle preview, or generate a GIF of the UI flow!
